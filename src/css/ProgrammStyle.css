@@ -1,0 +1,39 @@
+
+.progcontainer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.progcontainer h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.pro {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.pro h2 {
+    margin-top: 0;
+}
+
+.pro ul {
+    padding-left: 20px;
+}
+
+.pro li {
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+

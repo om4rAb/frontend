@@ -1,0 +1,58 @@
+.payment-container{
+  background-color: gray;
+}
+.payment-container h2{
+  text-align: center;
+
+}
+.payment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .payForm > div {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  .payForm label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .payForm input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .payForm button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .payForm p {
+    color: red;
+    margin-top: 5px;
+  }
+  
